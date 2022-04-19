@@ -1,0 +1,5 @@
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\2.sem\Sistemsko\WpfApp1\WpfApp1\bin\Release\net6.0-windows\publish\WpfApp1.exe
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\2.sem\Sistemsko\WpfApp1\WpfApp1\bin\Release\net6.0-windows\publish\WpfApp1.dll
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\2.sem\Sistemsko\WpfApp1\WpfApp1\bin\Release\net6.0-windows\publish\WpfApp1.deps.json
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\2.sem\Sistemsko\WpfApp1\WpfApp1\bin\Release\net6.0-windows\publish\WpfApp1.runtimeconfig.json
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\2.sem\Sistemsko\WpfApp1\WpfApp1\bin\Release\net6.0-windows\publish\WpfApp1.pdb

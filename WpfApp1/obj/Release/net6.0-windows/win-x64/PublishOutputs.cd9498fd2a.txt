@@ -1,0 +1,2 @@
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\2.sem\Sistemsko\WpfApp1\WpfApp1\bin\Release\net6.0-windows\publish\win-x64\WpfApp1.pdb
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\2.sem\Sistemsko\WpfApp1\WpfApp1\bin\Release\net6.0-windows\publish\win-x64\WpfApp1.exe
